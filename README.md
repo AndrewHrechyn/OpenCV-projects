@@ -1,7 +1,5 @@
 # OpenCV-projects
 
-# OpenCV-projects
-
 A collection of computer vision projects built with OpenCV and MediaPipe, demonstrating real-time hand gesture recognition and facial analysis applications.
 
 ## Projects
